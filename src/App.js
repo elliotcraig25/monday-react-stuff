@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
-import Header from './Components/Header'
-import Color from './Components/Color'
+
+import Header from './Components/Header';
+import Color from './Components/Color';
 import SelectedColor from './Components/SelectedColor';
 
 class App extends Component {
